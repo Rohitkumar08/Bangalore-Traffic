@@ -1,0 +1,12 @@
+com\lengaburuTraffic\modals\ResponseView\OrbitResultData.class
+com\lengaburuTraffic\service\VehicleFactory.class
+com\lengaburuTraffic\service\EvaluateDataService.class
+com\lengaburuTraffic\client\ApplicationClient.class
+com\lengaburuTraffic\modals\Weather.class
+com\lengaburuTraffic\modals\Vehicle.class
+com\lengaburuTraffic\modals\Orbit.class
+com\lengaburuTraffic\modals\Vehicle$VehicleType.class
+com\lengaburuTraffic\service\WeatherFactory.class
+com\lengaburuTraffic\util\OrbitalTimeTakenComparator.class
+com\lengaburuTraffic\util\Util.class
+com\lengaburuTraffic\modals\Weather$WeatherType.class
